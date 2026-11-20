@@ -66,7 +66,7 @@ The key words MUST, MUST NOT, SHOULD, SHOULD NOT and MAY are used as in RFC 2119
 craft-skills is a corpus of shared skills used in agentic development of the Craft apps. It has no code, no build and no tests.
 
 ### Layout
-- `README.md` is the only file at present.
+- `README.md` is the only content file; `AGENTS.md` and `CLAUDE.md` are the agent instructions.
 
 ### Checks
 None.
